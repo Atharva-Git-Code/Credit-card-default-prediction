@@ -3,3 +3,4 @@ seaborn
 matplotlib
 flask
 scikit-learn
+bz2file
