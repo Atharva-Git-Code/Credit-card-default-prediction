@@ -4,7 +4,7 @@ import numpy as np
 
 # import the model
 pipe = pickle.load(open('ccdp.pkl','rb'))
-df = pickle.load(open('ccdp.pbz2','rb'))
+#df = pickle.load(open('ccdp.pbz2','rb'))
 
 st.title("Credit Card Default Prediction")
 
